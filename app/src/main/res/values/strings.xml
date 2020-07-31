@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">斗鱼直播</string>
+    <string name="oneText">第一个标签</string>
+    <string name="twoText">第二个标签</string>
+    <string name="text3">第三个</string>
+    <string name="text4">第四</string>
+    <string name="like">猜你喜欢</string>
+</resources>
